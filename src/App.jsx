@@ -1,6 +1,6 @@
 import { BrowserRouter as Router,Routes, Route } from "react-router-dom";
 import Listarticles from "./components/articles/Listarticles";
-import Insertarticle from "./components/articles/InsertArticles";
+import Insertarticle from "./components/articles/Insertarticles";
 import Editarticle from "./components/articles/Editarticle";
 import Viewarticle from "./components/articles/Viewarticles";
 import Listcategorie from "./components/categories/Listcategories";
